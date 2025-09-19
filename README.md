@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek Rajput 👋  
+# 👋 Hi, I'm Abhishek Rajput  
 
 🚀 **Data Science Enthusiast** passionate about building intelligent systems, automation, and scalable applications.  
 Always learning, exploring, and creating projects that blend **AI, Data Science, and Full-Stack Development**.  
@@ -16,13 +16,16 @@ Always learning, exploring, and creating projects that blend **AI, Data Science,
 ### 🌐 Web Development  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
 
 ### 🤖 AI & Data Science  
 ![Data Science](https://img.shields.io/badge/Data%20Science-blue)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)  
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=chainlink&logoColor=white)  
 ![LangGraph](https://img.shields.io/badge/LangGraph-purple)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
 
 ### ⚙️ Tools & Platforms  
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?logo=visual-studio-code&logoColor=white)  
@@ -35,23 +38,36 @@ Always learning, exploring, and creating projects that blend **AI, Data Science,
 - [**Hiring Process Automation**](https://github.com/abrajput22/hiring_process_automation)  
   *AI-powered recruitment system with resume screening, workflow automation, and email notifications.*  
 
-*(You can add more projects here as you build them!)*  
+- [**RAG Chatbot**](https://github.com/abrajput22/rag-chatbot)  
+  *Retrieval-Augmented Generation chatbot using LangGraph, Streamlit, and FastAPI.*  
+
+- [**Movie Recommendation System**](https://github.com/abrajput22/movie-recommender)  
+  *Content-based recommender using metadata like genres, cast, and keywords.*  
+
+- [**Online Voting System**](https://github.com/abrajput22/voting-system-2)  
+  *Secure voting system built with Node.js, Express, and MongoDB.*  
+
+- [**Instagram Auto-Replier**](https://github.com/abrajput22/auto-replier)  
+  *Automated bot for replying to Instagram DMs and comments.*  
+
+- [**Spam Message Classifier**](https://github.com/abrajput22/spam-message-classification)  
+  *ML-based classifier to detect spam messages.*  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrajput22&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrajput22&layout=compact&theme=tokyonight)  
+
 
 ---
 
 ## 📫 Connect With Me  
 
-- 📧 Email: *[add your email here]*  
-- 💼 LinkedIn: *[add your LinkedIn link here]*  
+- 📧 Email: **abhishekrajput20252025@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/abhishekrajput2004](https://linkedin.com/in/abhishekrajput2004)  
+- 🖥️ GitHub: [github.com/abrajput22](https://github.com/abrajput22)  
 
 ---
 
-✨ *“Built with ❤️, powered by curiosity, and driven by data.”*  
 
