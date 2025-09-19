@@ -41,21 +41,27 @@ Always learning, exploring, and creating projects that blend **AI, Data Science,
 
 - [**Hiring Process Automation**](https://github.com/abrajput22/hiring_process_automation)  
   *AI-powered recruitment system with resume screening, workflow automation, and email notifications.*  
+   https://hiring-process-automation.onrender.com
 
 - [**RAG Chatbot**](https://github.com/abrajput22/rag-chatbot)  
-  *Retrieval-Augmented Generation chatbot using LangGraph, Streamlit, and FastAPI.*  
+  *Retrieval-Augmented Generation chatbot using LangGraph, Streamlit, and FastAPI.*
+   https://rag-chatbot-c3j5.onrender.com 
 
 - [**Movie Recommendation System**](https://github.com/abrajput22/movie-recommender)  
-  *Content-based recommender using metadata like genres, cast, and keywords.*  
+  *Content-based recommender using metadata like genres, cast, and keywords.*
+   https://huggingface.co/spaces/abhishekrajput2004/movie-recommender 
 
-- [**Online Voting System**](https://github.com/abrajput22/voting-system-2)  
-  *Secure voting system built with Node.js, Express, and MongoDB.*  
+- [**Online Voting System**](https://github.com/abrajput22/online-voting-system)  
+  *Secure voting system built with Node.js, Express, and MongoDB.*
+   https://online-voting-system-nom5.onrender.com
 
 - [**Instagram Auto-Replier**](https://github.com/abrajput22/auto-replier)  
-  *Automated bot for replying to Instagram DMs and comments.*  
+  *Automated bot for replying to Instagram DMs and comments.*
+   https://auto-replier.onrender.com
 
 - [**Spam Message Classifier**](https://github.com/abrajput22/spam-message-classification)  
-  *ML-based classifier to detect spam messages.*  
+  *ML-based classifier to detect spam messages.*
+   https://huggingface.co/spaces/abhishekrajput2004/spam-message
 
 ---
 
