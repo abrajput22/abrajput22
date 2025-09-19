@@ -77,7 +77,7 @@ Always learning, exploring, and creating projects that blend **AI, Data Science,
 - 📧 Email: **abhishekrajput20252025@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/abhishekrajput2004](https://linkedin.com/in/abhishekrajput2004)  
 - 🖥️ GitHub: [github.com/abrajput22](https://github.com/abrajput22)  
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=netlify&logoColor=white)](https://abhishekrajput2004.netlify.app/)
 ---
 
 
