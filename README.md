@@ -35,7 +35,7 @@ Always learning, exploring, and creating projects that blend **AI, Data Science,
 ### 📘 Core CS Fundamentals  
 - Object-Oriented Programming (OOPs): Classes, Inheritance, Polymorphism, Encapsulation, Abstraction  
 - Database Management Systems (DBMS): Normalization, Transactions, Indexing, SQL Queries, ER Diagrams
-- 
+- Data Structures: Arrays, Linked Lists, Stacks, Queues, Hash Tables, Trees, Graphs, Heaps, Tries
 
 ## 📂 Featured Projects  
 
