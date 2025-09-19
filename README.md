@@ -32,6 +32,10 @@ Always learning, exploring, and creating projects that blend **AI, Data Science,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
 ---
+### 📘 Core CS Fundamentals  
+- Object-Oriented Programming (OOPs): Classes, Inheritance, Polymorphism, Encapsulation, Abstraction  
+- Database Management Systems (DBMS): Normalization, Transactions, Indexing, SQL Queries, ER Diagrams
+- 
 
 ## 📂 Featured Projects  
 
